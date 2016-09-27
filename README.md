@@ -1,2 +1,2 @@
-# GitHub-Sublime-Theme
-A Sublime Text 3 theme inspired in the GitHub code syntax highlighter.
+# GitHub Color Scheme
+Sublime Text 3 color scheme inspired in the GitHub code syntax highlighter.
